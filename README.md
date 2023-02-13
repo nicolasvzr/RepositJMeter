@@ -1,7 +1,15 @@
 # RepositJMeter---Test-Performance
+Testes de Performance 
 
-Registro de Testes de Performance 
+# Detalhes
 
-Uso do JMeter 5.5/API Rest 
+Este repositorio são meus testes de testes de performance aprendido no curso da Udemy 
 
-Site: localhost:8080
+- JMeter 5.5
+
+- API Rest 
+
+- Site: localhost:8080
+
+
+
