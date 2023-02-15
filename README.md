@@ -7,7 +7,7 @@ Este repositorio são meus testes de testes de performance aprendido no curso da
 
 - JMeter 5.5
 
-- API Rest 
+- API, HTTP 
 
 - Site: localhost:8080
 
